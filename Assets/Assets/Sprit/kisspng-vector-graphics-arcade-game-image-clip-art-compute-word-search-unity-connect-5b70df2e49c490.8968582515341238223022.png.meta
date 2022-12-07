@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: a3edcb53b1ad76b47a5bd4c39e2c6470
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2613
+        width: 1163
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0def6783893b924cb245efc60279042
+      internalID: 1679323055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_1
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 2613
+        width: 1161
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d9304f9910856439d8a1a3852bfd83
+      internalID: 841150228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_2
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 2613
+        width: 1162
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463ee26d5971e864a83ac69906df8317
+      internalID: -1141694917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_3
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 2613
+        width: 1163
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2864e2bf4ba81db4ab5faed8839aecc2
+      internalID: -1251805244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1310
+        width: 1162
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95429b38a289e548bad23ba7523fa68
+      internalID: 548966667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_5
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1310
+        width: 1163
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd18760229cd5d6408f974b086ffc814
+      internalID: 1588548353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_6
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 1310
+        width: 1162
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab77722cabd6b7d4886c8a45737d7b21
+      internalID: 661275927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_7
+      rect:
+        serializedVersion: 2
+        x: 4259
+        y: 1310
+        width: 1162
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15da1c8e1e155e14e80a234fc3a7de14
+      internalID: -687603226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1159
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93deafed60a871840b2d29d5f0131e45
+      internalID: 954783300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_9
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 0
+        width: 1164
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2e32b21d472ff499bf76e2b78014fc
+      internalID: -1428849926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_10
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 0
+        width: 1163
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c73d5fc1eed28744b115ece73ea9006
+      internalID: 181406200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_11
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 0
+        width: 1159
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f1b002d06033340aae092fb0b84d38
+      internalID: 1408024151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4adb3fdbce1e46e4f9e6d6337cf0e280
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_1: 841150228
+      kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_4: 548966667
+      kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_6: 661275927
+      kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_5: 1588548353
+      kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_7: -687603226
+      kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_11: 1408024151
+      kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_8: 954783300
+      kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_9: -1428849926
+      kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_0: 1679323055
+      kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_10: 181406200
+      kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_3: -1251805244
+      kisspng-vector-graphics-arcade-game-image-clip-art-compute-word-search-unity-connect-5b70df2e49c490.8968582515341238223022_2: -1141694917
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
